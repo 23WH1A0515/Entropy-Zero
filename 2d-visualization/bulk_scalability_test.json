@@ -1,0 +1,782 @@
+[
+  {
+    "item_id": "P0001",
+    "store": "S001",
+    "category": "Toys",
+    "stock": 223,
+    "location": [
+      13,
+      5
+    ],
+    "final_restock_decision": true,
+    "quantity": 658
+  },
+  {
+    "item_id": "P0002",
+    "store": "S001",
+    "category": "Furniture",
+    "stock": 217,
+    "location": [
+      12,
+      4
+    ],
+    "final_restock_decision": true,
+    "quantity": 576
+  },
+  {
+    "item_id": "P0003",
+    "store": "S001",
+    "category": "Toys",
+    "stock": 69,
+    "location": [
+      9,
+      1
+    ],
+    "final_restock_decision": true,
+    "quantity": 905
+  },
+  {
+    "item_id": "P0004",
+    "store": "S001",
+    "category": "Groceries",
+    "stock": 338,
+    "location": [
+      6,
+      6
+    ],
+    "final_restock_decision": true,
+    "quantity": 736
+  },
+  {
+    "item_id": "P0007",
+    "store": "S001",
+    "category": "Clothing",
+    "stock": 256,
+    "location": [
+      3,
+      5
+    ],
+    "final_restock_decision": true,
+    "quantity": 832
+  },
+  {
+    "item_id": "P0008",
+    "store": "S001",
+    "category": "Electronics",
+    "stock": 315,
+    "location": [
+      7,
+      3
+    ],
+    "final_restock_decision": true,
+    "quantity": 608
+  },
+  {
+    "item_id": "P0009",
+    "store": "S001",
+    "category": "Electronics",
+    "stock": 167,
+    "location": [
+      13,
+      7
+    ],
+    "final_restock_decision": true,
+    "quantity": 897
+  },
+  {
+    "item_id": "P0010",
+    "store": "S001",
+    "category": "Furniture",
+    "stock": 167,
+    "location": [
+      7,
+      4
+    ],
+    "final_restock_decision": true,
+    "quantity": 769
+  },
+  {
+    "item_id": "P0012",
+    "store": "S001",
+    "category": "Electronics",
+    "stock": 213,
+    "location": [
+      9,
+      6
+    ],
+    "final_restock_decision": true,
+    "quantity": 766
+  },
+  {
+    "item_id": "P0014",
+    "store": "S001",
+    "category": "Groceries",
+    "stock": 293,
+    "location": [
+      0,
+      4
+    ],
+    "final_restock_decision": true,
+    "quantity": 733
+  },
+  {
+    "item_id": "P0016",
+    "store": "S001",
+    "category": "Electronics",
+    "stock": 74,
+    "location": [
+      1,
+      7
+    ],
+    "final_restock_decision": true,
+    "quantity": 982
+  },
+  {
+    "item_id": "P0017",
+    "store": "S001",
+    "category": "Toys",
+    "stock": 282,
+    "location": [
+      1,
+      1
+    ],
+    "final_restock_decision": true,
+    "quantity": 592
+  },
+  {
+    "item_id": "P0018",
+    "store": "S001",
+    "category": "Electronics",
+    "stock": 191,
+    "location": [
+      2,
+      6
+    ],
+    "final_restock_decision": true,
+    "quantity": 529
+  },
+  {
+    "item_id": "P0019",
+    "store": "S001",
+    "category": "Clothing",
+    "stock": 149,
+    "location": [
+      11,
+      10
+    ],
+    "final_restock_decision": true,
+    "quantity": 709
+  },
+  {
+    "item_id": "P0020",
+    "store": "S001",
+    "category": "Electronics",
+    "stock": 242,
+    "location": [
+      5,
+      6
+    ],
+    "final_restock_decision": true,
+    "quantity": 723
+  },
+  {
+    "item_id": "P0004",
+    "store": "S002",
+    "category": "Toys",
+    "stock": 133,
+    "location": [
+      6,
+      6
+    ],
+    "final_restock_decision": true,
+    "quantity": 773
+  },
+  {
+    "item_id": "P0006",
+    "store": "S002",
+    "category": "Toys",
+    "stock": 160,
+    "location": [
+      0,
+      7
+    ],
+    "final_restock_decision": true,
+    "quantity": 755
+  },
+  {
+    "item_id": "P0007",
+    "store": "S002",
+    "category": "Toys",
+    "stock": 53,
+    "location": [
+      7,
+      3
+    ],
+    "final_restock_decision": true,
+    "quantity": 1127
+  },
+  {
+    "item_id": "P0008",
+    "store": "S002",
+    "category": "Furniture",
+    "stock": 218,
+    "location": [
+      0,
+      6
+    ],
+    "final_restock_decision": true,
+    "quantity": 665
+  },
+  {
+    "item_id": "P0009",
+    "store": "S002",
+    "category": "Electronics",
+    "stock": 62,
+    "location": [
+      3,
+      3
+    ],
+    "final_restock_decision": true,
+    "quantity": 1044
+  },
+  {
+    "item_id": "P0011",
+    "store": "S002",
+    "category": "Groceries",
+    "stock": 156,
+    "location": [
+      1,
+      0
+    ],
+    "final_restock_decision": true,
+    "quantity": 671
+  },
+  {
+    "item_id": "P0012",
+    "store": "S002",
+    "category": "Electronics",
+    "stock": 193,
+    "location": [
+      7,
+      9
+    ],
+    "final_restock_decision": true,
+    "quantity": 708
+  },
+  {
+    "item_id": "P0014",
+    "store": "S002",
+    "category": "Clothing",
+    "stock": 342,
+    "location": [
+      14,
+      8
+    ],
+    "final_restock_decision": true,
+    "quantity": 621
+  },
+  {
+    "item_id": "P0016",
+    "store": "S002",
+    "category": "Toys",
+    "stock": 258,
+    "location": [
+      13,
+      1
+    ],
+    "final_restock_decision": true,
+    "quantity": 906
+  },
+  {
+    "item_id": "P0017",
+    "store": "S002",
+    "category": "Toys",
+    "stock": 236,
+    "location": [
+      11,
+      11
+    ],
+    "final_restock_decision": true,
+    "quantity": 774
+  },
+  {
+    "item_id": "P0018",
+    "store": "S002",
+    "category": "Groceries",
+    "stock": 151,
+    "location": [
+      13,
+      10
+    ],
+    "final_restock_decision": true,
+    "quantity": 946
+  },
+  {
+    "item_id": "P0020",
+    "store": "S002",
+    "category": "Groceries",
+    "stock": 284,
+    "location": [
+      6,
+      0
+    ],
+    "final_restock_decision": true,
+    "quantity": 690
+  },
+  {
+    "item_id": "P0001",
+    "store": "S003",
+    "category": "Clothing",
+    "stock": 138,
+    "location": [
+      3,
+      4
+    ],
+    "final_restock_decision": true,
+    "quantity": 598
+  },
+  {
+    "item_id": "P0002",
+    "store": "S003",
+    "category": "Groceries",
+    "stock": 388,
+    "location": [
+      7,
+      1
+    ],
+    "final_restock_decision": true,
+    "quantity": 888
+  },
+  {
+    "item_id": "P0003",
+    "store": "S003",
+    "category": "Groceries",
+    "stock": 112,
+    "location": [
+      12,
+      2
+    ],
+    "final_restock_decision": true,
+    "quantity": 697
+  },
+  {
+    "item_id": "P0007",
+    "store": "S003",
+    "category": "Electronics",
+    "stock": 108,
+    "location": [
+      0,
+      9
+    ],
+    "final_restock_decision": true,
+    "quantity": 846
+  },
+  {
+    "item_id": "P0008",
+    "store": "S003",
+    "category": "Furniture",
+    "stock": 103,
+    "location": [
+      3,
+      8
+    ],
+    "final_restock_decision": true,
+    "quantity": 826
+  },
+  {
+    "item_id": "P0011",
+    "store": "S003",
+    "category": "Toys",
+    "stock": 137,
+    "location": [
+      4,
+      13
+    ],
+    "final_restock_decision": true,
+    "quantity": 916
+  },
+  {
+    "item_id": "P0012",
+    "store": "S003",
+    "category": "Clothing",
+    "stock": 108,
+    "location": [
+      11,
+      5
+    ],
+    "final_restock_decision": true,
+    "quantity": 614
+  },
+  {
+    "item_id": "P0014",
+    "store": "S003",
+    "category": "Electronics",
+    "stock": 230,
+    "location": [
+      1,
+      4
+    ],
+    "final_restock_decision": true,
+    "quantity": 820
+  },
+  {
+    "item_id": "P0015",
+    "store": "S003",
+    "category": "Clothing",
+    "stock": 270,
+    "location": [
+      8,
+      6
+    ],
+    "final_restock_decision": true,
+    "quantity": 715
+  },
+  {
+    "item_id": "P0016",
+    "store": "S003",
+    "category": "Furniture",
+    "stock": 166,
+    "location": [
+      10,
+      14
+    ],
+    "final_restock_decision": true,
+    "quantity": 713
+  },
+  {
+    "item_id": "P0017",
+    "store": "S003",
+    "category": "Clothing",
+    "stock": 239,
+    "location": [
+      1,
+      3
+    ],
+    "final_restock_decision": true,
+    "quantity": 658
+  },
+  {
+    "item_id": "P0019",
+    "store": "S003",
+    "category": "Electronics",
+    "stock": 253,
+    "location": [
+      6,
+      8
+    ],
+    "final_restock_decision": true,
+    "quantity": 797
+  },
+  {
+    "item_id": "P0002",
+    "store": "S004",
+    "category": "Furniture",
+    "stock": 181,
+    "location": [
+      1,
+      9
+    ],
+    "final_restock_decision": true,
+    "quantity": 878
+  },
+  {
+    "item_id": "P0004",
+    "store": "S004",
+    "category": "Furniture",
+    "stock": 105,
+    "location": [
+      1,
+      9
+    ],
+    "final_restock_decision": true,
+    "quantity": 591
+  },
+  {
+    "item_id": "P0005",
+    "store": "S004",
+    "category": "Toys",
+    "stock": 217,
+    "location": [
+      14,
+      12
+    ],
+    "final_restock_decision": true,
+    "quantity": 699
+  },
+  {
+    "item_id": "P0007",
+    "store": "S004",
+    "category": "Electronics",
+    "stock": 134,
+    "location": [
+      9,
+      4
+    ],
+    "final_restock_decision": true,
+    "quantity": 731
+  },
+  {
+    "item_id": "P0008",
+    "store": "S004",
+    "category": "Furniture",
+    "stock": 390,
+    "location": [
+      2,
+      8
+    ],
+    "final_restock_decision": true,
+    "quantity": 797
+  },
+  {
+    "item_id": "P0009",
+    "store": "S004",
+    "category": "Clothing",
+    "stock": 115,
+    "location": [
+      3,
+      10
+    ],
+    "final_restock_decision": true,
+    "quantity": 1026
+  },
+  {
+    "item_id": "P0011",
+    "store": "S004",
+    "category": "Groceries",
+    "stock": 155,
+    "location": [
+      11,
+      10
+    ],
+    "final_restock_decision": true,
+    "quantity": 791
+  },
+  {
+    "item_id": "P0012",
+    "store": "S004",
+    "category": "Clothing",
+    "stock": 85,
+    "location": [
+      1,
+      10
+    ],
+    "final_restock_decision": true,
+    "quantity": 690
+  },
+  {
+    "item_id": "P0013",
+    "store": "S004",
+    "category": "Electronics",
+    "stock": 113,
+    "location": [
+      7,
+      10
+    ],
+    "final_restock_decision": true,
+    "quantity": 710
+  },
+  {
+    "item_id": "P0015",
+    "store": "S004",
+    "category": "Toys",
+    "stock": 56,
+    "location": [
+      2,
+      11
+    ],
+    "final_restock_decision": true,
+    "quantity": 808
+  },
+  {
+    "item_id": "P0016",
+    "store": "S004",
+    "category": "Clothing",
+    "stock": 314,
+    "location": [
+      14,
+      14
+    ],
+    "final_restock_decision": true,
+    "quantity": 652
+  },
+  {
+    "item_id": "P0017",
+    "store": "S004",
+    "category": "Electronics",
+    "stock": 100,
+    "location": [
+      2,
+      2
+    ],
+    "final_restock_decision": true,
+    "quantity": 982
+  },
+  {
+    "item_id": "P0018",
+    "store": "S004",
+    "category": "Toys",
+    "stock": 83,
+    "location": [
+      7,
+      3
+    ],
+    "final_restock_decision": true,
+    "quantity": 665
+  },
+  {
+    "item_id": "P0019",
+    "store": "S004",
+    "category": "Clothing",
+    "stock": 65,
+    "location": [
+      13,
+      14
+    ],
+    "final_restock_decision": true,
+    "quantity": 654
+  },
+  {
+    "item_id": "P0020",
+    "store": "S004",
+    "category": "Toys",
+    "stock": 249,
+    "location": [
+      4,
+      6
+    ],
+    "final_restock_decision": true,
+    "quantity": 869
+  },
+  {
+    "item_id": "P0002",
+    "store": "S005",
+    "category": "Groceries",
+    "stock": 253,
+    "location": [
+      11,
+      11
+    ],
+    "final_restock_decision": true,
+    "quantity": 1016
+  },
+  {
+    "item_id": "P0003",
+    "store": "S005",
+    "category": "Furniture",
+    "stock": 98,
+    "location": [
+      5,
+      8
+    ],
+    "final_restock_decision": true,
+    "quantity": 888
+  },
+  {
+    "item_id": "P0004",
+    "store": "S005",
+    "category": "Toys",
+    "stock": 158,
+    "location": [
+      9,
+      8
+    ],
+    "final_restock_decision": true,
+    "quantity": 835
+  },
+  {
+    "item_id": "P0005",
+    "store": "S005",
+    "category": "Toys",
+    "stock": 372,
+    "location": [
+      0,
+      3
+    ],
+    "final_restock_decision": true,
+    "quantity": 673
+  },
+  {
+    "item_id": "P0007",
+    "store": "S005",
+    "category": "Groceries",
+    "stock": 59,
+    "location": [
+      7,
+      5
+    ],
+    "final_restock_decision": true,
+    "quantity": 850
+  },
+  {
+    "item_id": "P0010",
+    "store": "S005",
+    "category": "Toys",
+    "stock": 308,
+    "location": [
+      6,
+      0
+    ],
+    "final_restock_decision": true,
+    "quantity": 658
+  },
+  {
+    "item_id": "P0011",
+    "store": "S005",
+    "category": "Groceries",
+    "stock": 156,
+    "location": [
+      11,
+      6
+    ],
+    "final_restock_decision": true,
+    "quantity": 582
+  },
+  {
+    "item_id": "P0013",
+    "store": "S005",
+    "category": "Electronics",
+    "stock": 389,
+    "location": [
+      4,
+      12
+    ],
+    "final_restock_decision": true,
+    "quantity": 804
+  },
+  {
+    "item_id": "P0014",
+    "store": "S005",
+    "category": "Toys",
+    "stock": 328,
+    "location": [
+      12,
+      4
+    ],
+    "final_restock_decision": true,
+    "quantity": 714
+  },
+  {
+    "item_id": "P0016",
+    "store": "S005",
+    "category": "Furniture",
+    "stock": 96,
+    "location": [
+      3,
+      11
+    ],
+    "final_restock_decision": true,
+    "quantity": 854
+  },
+  {
+    "item_id": "P0020",
+    "store": "S005",
+    "category": "Groceries",
+    "stock": 117,
+    "location": [
+      13,
+      7
+    ],
+    "final_restock_decision": true,
+    "quantity": 862
+  }
+]

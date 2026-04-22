@@ -1,0 +1,17 @@
+[
+  {
+    "item_id": "ITEM_1",
+    "location": [-45, -25],
+    "urgency": 5
+  },
+  {
+    "item_id": "ITEM_2",
+    "location": [45, 25],
+    "urgency": 8
+  },
+  {
+    "item_id": "ITEM_3",
+    "location": [15, 0],
+    "urgency": 10
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "item_id": "Milk001",
+    "location": [8, 6],
+    "urgency": 0.72,
+    "quantity": 4,
+    "predicted_stockout_in_days": 11,
+    "remaining_stock": 83,
+    "predicted_demand_next_5_days": 36.75,
+    "rule_based": {
+      "restock": false,
+      "restock_qty": 0
+    },
+    "ai_recommendation": {
+      "restock": false,
+      "restock_qty": 0,
+      "reason": "Remaining stock of 83 units is sufficient for the predicted demand of 36.75 units over the next 5 days. No stockout expected soon.",
+      "confidence": 0.95
+    },
+    "final_restock_decision": false
+  },
+  {
+    "item_id": "Bread002",
+    "location": [8, 1],
+    "urgency": 0.65,
+    "quantity": 0,
+    "predicted_stockout_in_days": 8,
+    "remaining_stock": 70,
+    "predicted_demand_next_5_days": 44.76,
+    "rule_based": {
+      "restock": false,
+      "restock_qty": 0
+    },
+    "ai_recommendation": {
+      "restock": false,
+      "restock_qty": 0,
+      "reason": "Current stock of 70 units is above threshold and covers upcoming 5-day demand of 44.76 units.",
+      "confidence": 0.95
+    },
+    "final_restock_decision": false
+  },
+  {
+    "item_id": "Eggs003",
+    "location": [8, 4],
+    "urgency": 1,
+    "quantity": 400,
+    "predicted_stockout_in_days": 0,
+    "remaining_stock": -296,
+    "predicted_demand_next_5_days": 103.37,
+    "rule_based": {
+      "restock": true,
+      "restock_qty": 400
+    },
+    "ai_recommendation": {
+      "restock": true,
+      "restock_qty": 400,
+      "reason": "Stock level is severely negative, indicating extreme shortage and unmet demand. Immediate restock required.",
+      "confidence": 0.95
+    },
+    "final_restock_decision": true
+  },
+  {
+    "item_id": "Rice005",
+    "location": [1, 8],
+    "urgency": 0.43,
+    "quantity": 0,
+    "predicted_stockout_in_days": 18,
+    "remaining_stock": 227,
+    "predicted_demand_next_5_days": 64.81,
+    "rule_based": {
+      "restock": false,
+      "restock_qty": 0
+    },
+    "ai_recommendation": {
+      "restock": false,
+      "restock_qty": 0,
+      "reason": "Stock is significantly above demand levels. No restock is needed at this time.",
+      "confidence": 0.95
+    },
+    "final_restock_decision": false
+  },
+  {
+    "item_id": "Oil013",
+    "location": [4, 6],
+    "urgency": 0.45,
+    "quantity": 0,
+    "predicted_stockout_in_days": 18,
+    "remaining_stock": 137,
+    "predicted_demand_next_5_days": 37.85,
+    "rule_based": {
+      "restock": false,
+      "restock_qty": 0
+    },
+    "ai_recommendation": {
+      "restock": false,
+      "restock_qty": 0,
+      "reason": "Current stock is well above reorder threshold and covers expected demand for next 5 days.",
+      "confidence": 1
+    },
+    "final_restock_decision": false
+  },
+  {
+    "item_id": "Fish014",
+    "location": [6, 2],
+    "urgency": 1,
+    "quantity": 150,
+    "predicted_stockout_in_days": 0,
+    "remaining_stock": -110,
+    "predicted_demand_next_5_days": 43.02,
+    "rule_based": {
+      "restock": true,
+      "restock_qty": 150
+    },
+    "ai_recommendation": {
+      "restock": true,
+      "restock_qty": 150,
+      "reason": "Stock is in severe deficit (-110). Restocking is immediately necessary to prevent supply issues.",
+      "confidence": 0.95
+    },
+    "final_restock_decision": true
+  },
+  {
+    "item_id": "Sugar020",
+    "location": [3, 10],
+    "urgency": 0.60,
+    "quantity": 0,
+    "predicted_stockout_in_days": 14,
+    "remaining_stock": 160,
+    "predicted_demand_next_5_days": 57.26,
+    "rule_based": {
+      "restock": false,
+      "restock_qty": 0
+    },
+    "ai_recommendation": {
+      "restock": false,
+      "restock_qty": 0,
+      "reason": "Stock levels are high relative to expected demand. No restock currently required.",
+      "confidence": 0.95
+    },
+    "final_restock_decision": false
+  },
+  {
+    "item_id": "Salt021",
+    "location": [2, 9],
+    "urgency": 0.45,
+    "quantity": 15,
+    "predicted_stockout_in_days": 3,
+    "remaining_stock": 14,
+    "predicted_demand_next_5_days": 26.88,
+    "rule_based": {
+      "restock": true,
+      "restock_qty": 15
+    },
+    "ai_recommendation": {
+      "restock": true,
+      "restock_qty": 15,
+      "reason": "Remaining stock (14) is insufficient to cover the upcoming 5-day demand (26.88). Restock advised.",
+      "confidence": 0.95
+    },
+    "final_restock_decision": true
+  },
+  {
+    "item_id": "Apples022",
+    "location": [7, 3],
+    "urgency": 0.55,
+    "quantity": 0,
+    "predicted_stockout_in_days": 8,
+    "remaining_stock": 73,
+    "predicted_demand_next_5_days": 47.81,
+    "rule_based": {
+      "restock": false,
+      "restock_qty": 0
+    },
+    "ai_recommendation": {
+      "restock": false,
+      "restock_qty": 0,
+      "reason": "Stock level is sufficient to handle predicted short-term demand.",
+      "confidence": 0.95
+    },
+    "final_restock_decision": false
+  },
+  {
+    "item_id": "Cheese023",
+    "location": [5, 5],
+    "urgency": 0.70,
+    "quantity": 15,
+    "predicted_stockout_in_days": 3,
+    "remaining_stock": 24,
+    "predicted_demand_next_5_days": 38.79,
+    "rule_based": {
+      "restock": true,
+      "restock_qty": 15
+    },
+    "ai_recommendation": {
+      "restock": true,
+      "restock_qty": 15,
+      "reason": "Stock will not meet demand for the next 5 days. Restock is necessary.",
+      "confidence": 0.95
+    },
+    "final_restock_decision": true
+  }
+]

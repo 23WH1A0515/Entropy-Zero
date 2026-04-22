@@ -1,0 +1,7 @@
+{
+    "api_key": "AIzaSyBl6eOMiFCUJmzjOo0tYADlq22ONBaDoJQ",
+    "num_robots": 4,
+    "shelf_rows": [-25, 0, 25],
+    "floor_color": "#edc9af",
+    "collision_threshold": 14
+}
