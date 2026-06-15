@@ -61,7 +61,7 @@ Restock Request (JSON)
           │
           ▼
 Real-Time Visualization
-
+```
 ---
 
 # Technical Stack
