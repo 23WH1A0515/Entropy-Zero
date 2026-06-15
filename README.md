@@ -64,7 +64,49 @@ Real-Time Visualization
 
 ---
 
-## Technical Stack
+# Technical Stack
+
+## Programming Language
+- **Python 3.10+**
+
+## Data Processing
+- **Pandas** – Data manipulation and task processing
+- **JSON** – Restock requests, inventory data, and robot states
+
+## Event-Driven Architecture
+- **Watchdog** – Real-time file monitoring and automatic task triggering
+
+## Artificial Intelligence
+- **Ollama** – Local LLM runtime
+- **LLaMA 3** – Explainable AI reasoning and decision generation
+
+## Algorithms
+- **A\* Search Algorithm** – Optimal pathfinding and navigation
+- **Priority-Based Scheduling** – Task prioritization and queue management
+- **Heuristic Robot Selection** – Robot assignment based on distance, workload, and availability
+
+## Visualization & User Interface
+- **Pygame** – Real-time 2D robot simulation
+- **NiceGUI** – Interactive dashboard and visualization
+- **HTML/CSS** – User interface styling
+
+## System Architecture
+- **Multi-Agent System**
+- **Event-Driven Processing**
+- **Explainable AI**
+- **Autonomous Task Scheduling**
+- **Intelligent Resource Allocation**
+
+## Development Tools
+- **Git**
+- **GitHub**
+- **VS Code**
+
+---
+
+### Built With
+
+```text
 Python
 ├── Pandas
 ├── Watchdog
@@ -74,7 +116,7 @@ Python
 └── LLaMA 3
 
 Algorithms
-├── A* Pathfinding
+├── A* Search
 ├── Priority Scheduling
 └── Heuristic Robot Selection
 
@@ -82,3 +124,4 @@ Architecture
 ├── Event-Driven System
 ├── Multi-Agent Coordination
 └── Explainable AI
+```
