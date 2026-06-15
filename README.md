@@ -62,7 +62,9 @@ Restock Request (JSON)
           ▼
 Real-Time Visualization
 
-**## Technical stack** 
+---
+
+## Technical Stack
 Python
 ├── Pandas
 ├── Watchdog
